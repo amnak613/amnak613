@@ -2,6 +2,7 @@
 - I am a software engineer with 3 years of experience
 - I love backend development and prioratize clean and efficient solutions
   - Currently focused on learning cloud computing
+    Link to my personal portfolio - http://personal-portfolio-amna.s3-website-us-west-1.amazonaws.com/
 
 
 <!---
